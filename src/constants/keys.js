@@ -1,0 +1,1 @@
+export const TASK_STORAGE_KEY = 'todo-storage-list-key'
